@@ -1,0 +1,443 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Reformations preservation opened in a sermon preached at Westminster before the honourable House of Commons, at the late solemne fast, July 26, 1643 / by Sidr. Simpson.</title>
+            <author>Simpson, Sidrach, 1600?-1655.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 69 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A60259</idno>
+            <idno type="STC">Wing S3825</idno>
+            <idno type="STC">ESTC R24543</idno>
+            <idno type="EEBO-CITATION">08245014</idno>
+            <idno type="OCLC">ocm 08245014</idno>
+            <idno type="VID">41151</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A60259)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 41151)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1240:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Reformations preservation opened in a sermon preached at Westminster before the honourable House of Commons, at the late solemne fast, July 26, 1643 / by Sidr. Simpson.</title>
+                  <author>Simpson, Sidrach, 1600?-1655.</author>
+               </titleStmt>
+               <extent>[3], 30 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Benjamin Allen,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fast-day sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-07</date>
+            <label>Holly Beeman</label>Sampled and proofread</change>
+         <change>
+            <date>2011-07</date>
+            <label>Holly Beeman</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:41151:1"/>
+            <p>REFORMATION'S PRESERVATION: OPENED IN A SERMON Preached at <hi>Weſtminſter</hi> before the Honourable Houſe of COM<g ref="char:EOLhyphen"/>MONS, at the late ſolemne FAST, <hi>July</hi> 26. 1643.</p>
+            <p>
+               <hi>By</hi> SIDR. SIMPSON, <hi>Miniſter of the Word.</hi>
+            </p>
+            <p>Publiſhed by Order of that Houſe.</p>
+            <figure>
+               <figDesc>printer's or publisher's device</figDesc>
+            </figure>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Benjamin Allen,</hi> and are to be ſold in Popes-head-Alley, 1643.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:41151:2"/>
+            <pb facs="tcp:41151:2" rendition="simple:additions"/>
+            <head>TO THE HONOVRABLE Houſe of COMMONS <hi>Aſſembled in</hi> PARLIAMENT.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">A</seg>LL the well-affected in the Kingdom cry unto you, as the woman of <hi>Samaria</hi> did unto the King, <hi>Helpe us:</hi> or as the Diſciples did to Chriſt; you have bid us come unto you upon the wa<g ref="char:EOLhyphen"/>ters, <hi>Save us,</hi> for we are <hi>ſinking; ſinking</hi> in our <hi>eſtates,</hi> our <hi>liberties,</hi> our <hi>Religion,</hi> yea in our hearts and courage too. You have many wayes before you for our ſafety, as the ſpeedy <hi>execution of juſtice on Offendors,
+<pb facs="tcp:41151:3"/>Ier. 5.1. 1 Sam. 21.15.14.</hi> (their life may bee our death <hi>1 Kin. 20.4<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi>) the <hi>vigorous</hi> pro<g ref="char:EOLhyphen"/>ſecution of the <hi>warre;</hi> the taking hold of all advantageous opportunities; the <hi>wiſe</hi> and <hi>active</hi> improvement of that Spirit God hath yet left in the People, which never was more <hi>high</hi> and <hi>great</hi> then now it will be.</hi>
+               <note place="margin">Great dangers raiſe great courage.</note>
+            </p>
+            <p>But there is no meanes like to <hi>Reformati<g ref="char:EOLhyphen"/>on:</hi> that's a <hi>defence</hi> cannot be beaten down. The ſtones and timber of the Temple were hewed and ſquared indeed, ſome time be<g ref="char:EOLhyphen"/>fore they were ſet up, but if that building be not in your <hi>heart,</hi> and in your hearts <hi>a<g ref="char:EOLhyphen"/>bove</hi> all things beſides, what ever elſe you doe will either be without <hi>ſucceſſe,</hi> or make us further <hi>miſerable.</hi> Without <hi>ſucceſſe;</hi> for <hi>except the Lord doe keep the Kingdome, the Watch-men are in vaine;</hi> and God will not keepe that which is not a <hi>Glory</hi> to him: or elſe make us <hi>more miſerable;</hi> for when men are ſubdued, God will come and war againſt us. It's a fearfull thing to fall into the hands of the living God: <hi>Our God is a con<g ref="char:EOLhyphen"/>ſuming fire, Heb. 12.29.</hi> and theſe words are ſpoken to preſſe on a Reformation. If a Re<g ref="char:EOLhyphen"/>formation
+<pb facs="tcp:41151:3"/>be not aimed at, <hi>Quorſum haec diſpendia?</hi> why are wee in jeopardy every houre? and are as ſheepe accounted to bee ſlaine? If it bee aimed at, <hi>troubles</hi> are not <hi>troubles, loſſes</hi> are not <hi>loſſes:</hi> Thoſe <hi>heapes</hi> are not <hi>ruines</hi> which the Builder makes, in plucking downe to make the houſe up better. Men will never reckon of their <hi>taxes, dan<g ref="char:EOLhyphen"/>gers, feares,</hi> if they may have Reformation for them. Some evills have ſo ſubtilly layd themſelves between the ſtones of the Com<g ref="char:EOLhyphen"/>mon-wealth, gotten ſuch Lawes, obtained ſuch favour amongſt men, becauſe they are imployed ſo much in Civill matters, that no word of God alone can deſtroy them, with<g ref="char:EOLhyphen"/>out ſharpe contentions, unleſſe your hands be on them. Every one may reforme himſelfe, but you onely can the Nation, of thoſe evills: and unleſſe thoſe bee removed, <hi>actum eſt de Religione.</hi> The God of Heaven give to all and every of you ſuch a ſpirit as may make you fearleſſe of <hi>dangers,</hi> faithfull to your <hi>truſt,</hi> true to your <hi>profeſſed ends,</hi> and ſucceſ<g ref="char:EOLhyphen"/>full in this <hi>worke</hi> which ſhall be the dayly prayer of him who is</p>
+            <closer>
+               <signed>
+                  <hi>Your Servant in the Lord,</hi> S. Simpſon.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:41151:4"/>
+            <pb n="1" facs="tcp:41151:4"/>
+            <head>A SERMON, Preached at the late Faſt, before the Honourable Houſe of COMMONS.</head>
+            <epigraph>
+               <q>
+                  <bibl>Iſaiah 4. the latter part of the fifth verſe.</bibl>
+                  <p>
+                     <hi>For upon all the glory, there ſhall be a defence.</hi>
+                  </p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>Here are but two things that are the <hi>deſire</hi> of all good men in theſe times, The <hi>Reformation</hi> of <hi>Religi<g ref="char:EOLhyphen"/>on,</hi> and, The <hi>ſafety,</hi> and <hi>preſervation</hi> of <hi>it,</hi> and of the <hi>Kingdome;</hi> and you have both theſe in the text, <hi>Reformation,</hi> in the word <hi>glory;</hi>
+               <note place="margin">Levit. 21.2y.</note> 
+               <hi>pre<g ref="char:EOLhyphen"/>ſervation,</hi> in the other. There are but two workes of this day, <hi>Soul-afflicting,</hi> and <hi>Soul-comforting</hi> of our ſelves in God, and wee have matter for both theſe in the text too: For <hi>mourning,</hi> becauſe our <hi>glory, Relgion,</hi> is ſtained, darkened, aſſaulted, endangered. It is now with us as it was with the Iſraelites, 1 <hi>Sam.</hi> 4. <hi>Our
+<pb n="2" facs="tcp:41151:5"/>Arke</hi> is in the field, therefore it is ſit every mans hand ſhould be on his loynes, and his heart be full of trem<g ref="char:EOLhyphen"/>bling. For matter of <hi>comfort</hi> and encouragement the text is fitting too, for the words are a promiſe, that none ſhall hurt us; <hi>
+                  <g ref="char:V">Ʋ</g>pon all the glory there ſhall be a defence.</hi>
+            </p>
+            <p>If you looke on the former chapter, and the foregoing verſes of this Chapter, you ſhall finde as bad times fore<g ref="char:EOLhyphen"/>told as could be, ſuch in which the ſlaughter ſhould be ſo great, that there ſhould not be the ſixt man leſt at moſt, for <hi>ſeaven women,</hi> ſaith the text,<note place="margin">Verſ. 1.</note> 
+               <hi>ſhall take hold of one man,</hi> ſuch a time wherein the women ſhall run up and downe, and deſire,<note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> firmi<g ref="char:EOLhyphen"/>ter apprehende<g ref="char:EOLhyphen"/>re, vel retinere fugientem. Precibus ac ſol<g ref="char:EOLhyphen"/>licitationibus adorientur. <hi>Muſc.</hi>
+               </note> and hang on men, not ſo much to marry them, as to ſave them from the<note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> pro defloratione.</note> unchaſt hands of rude Souldiers. The caſe of this people was ſomewhat like the caſe of <hi>Benjamin,</hi> wherein they had not men enow to give unto their women. Sad times, to have the preſent generation murthered, and no hopes of another that ſhould be <hi>chaſt</hi> and <hi>holy:</hi> and yet that was not all, if it had beene but the loſſe of their lives, they would not have ſo much complained, but in the loſſe of this nation Religion was loſt too; in the blotting out of their names, Gods name was blotted out from under heaven; <hi>There are no people fare ſo hardly,</hi> nor <hi>finde ſuch ſharpeneſſe from the hand of God, as theſe who make profeſſion,</hi> and but a profeſſion of religion. Apoſtatizing Churches have the ſevereſt puniſhments. In this ſad caſe God comes to com<g ref="char:EOLhyphen"/>fort them, for that is his manner with his people if he give one foule word, he gives two faire; if he gives a <hi>ſtroake,</hi> he gives a <hi>kiſſe;</hi> if he ſend out an enemy againſt them, himſelfe ſpeakes as <hi>David</hi> to the Commander when he went out againſt his ſonne <hi>Abſalon,</hi> Deale kindly with them: Therefore you have in the latter end of this Chap<g ref="char:EOLhyphen"/>ter (whereof my text is a part) a double conſolation gi<g ref="char:EOLhyphen"/>ven them.</p>
+            <p>Firſt, That God would by all their troubles and afflicti<g ref="char:EOLhyphen"/>ons reforme them and make them a <hi>glory.</hi>
+            </p>
+            <p n="2">2. That when they are ſo, there ſhould no hand touch
+<pb n="3" facs="tcp:41151:5"/>them; he would be their <hi>defence:</hi> as if he ſhould have ſaid, There is no other courſe then this I take, will ſerve your turne, your droſſe wil not come off, but by ſuch a degree of fire as you are caſt into, my intendment is not to deſtroy you, but to purge you, not to lay you my garden waſt, but to weed out theſe things and perſons that are hurtfull: I will touch no flower but theſe that have onely <hi>colour,</hi> not <hi>ſavour,</hi> for <hi>upon all the glory there ſhall be a defence.</hi>
+            </p>
+            <p>
+               <hi>[Glory]</hi> in the generall is nothing elſe but apparent ex<g ref="char:EOLhyphen"/>cellency.</p>
+            <p>Firſt, in glory there muſt be ſome divine excellency, ſome ſurpaſſing good, and therefore it is given unto God, <hi>Thine</hi> is the <hi>glory.</hi> The Kings daughter is all glorious with<g ref="char:EOLhyphen"/>in; as <hi>within</hi> is oppoſite not to outward, but to apparent,<note place="margin">Pſal. 45.</note> ſhe is really glorious. Therefore it is called a <hi>weight</hi> of <hi>glo<g ref="char:EOLhyphen"/>ry.</hi> 2 <hi>Cor.</hi> 4. <hi>ult.</hi>
+            </p>
+            <p>Secondly, this muſt be <hi>evident,</hi>
+               <note place="margin">Pſal. 50.23.</note> and therefore he that offers me <hi>praiſe,</hi> ſaith God, he <hi>glorifies</hi> me: From hence it is attributed to the Church that is reformed, and after the minde of God: Glorious things are ſpoken of thee thou City of God: <hi>Pſal.</hi> 63.2.<note place="margin">Pſal. 87.3.</note> My ſoule thirſts to ſee thy pow<g ref="char:EOLhyphen"/>er and thy <hi>glory</hi> as I have ſeene it in the Sanctuary. And becauſe that upon this, one great part of the diſcourſe hangs, I ſhall therefore by the way make it evident, that by <hi>Glory</hi> is underſtood here a Church reformed; And that from a threefold ground.</p>
+            <list>
+               <item>1. By conſidering the context.</item>
+               <item>2. Becauſe there is nothing in the reformation of the Church, but what is included in the word <hi>glory,</hi> in the Scripture phraſe.</item>
+               <item>3. Becauſe there is nothing in <hi>glory</hi> but what is in a Church reformed.</item>
+            </list>
+            <p>Firſt, if you looke to the context, you ſhall finde there a branch comming out of the earth in the 2. <hi>v.</hi> that is,<note place="margin">Iſa. 5.7. Iſa. 44.3.4.</note> a Church erected when the face of it was ſpoyled, corrup<g ref="char:EOLhyphen"/>ted, yea undiſcernible: this is beautifull.</p>
+            <p>The Septuagint render it <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, in all parts accor<g ref="char:EOLhyphen"/>ding
+<pb n="4" facs="tcp:41151:6"/>to the will of God; it is ſuch the members whereof are holy, <hi>verſ.</hi> 3. are purged, <hi>verſ.</hi> 4. and that by the Spi<g ref="char:EOLhyphen"/>rit of Judgement, and by the ſpirit of burning.</p>
+            <p>Secondly, whereas there goes but two things to the reformation of the Church, they are both in the word <hi>glory.</hi>
+            </p>
+            <p>Firſt, there muſt be all the ordinances; thus the Arke was called <hi>glory,</hi>
+               <note place="margin">1 Sam. 4.21.</note> and the Arke ſignified both the word and Sacraments; here are communicants in theſe, and they are ſuch as are cleanſed and undefiled, <hi>verſ.</hi> 3. here is thirdly, government; 2 <hi>Pet.</hi> 2.10. it is ſaid of ſome they doe deſpiſe and not reſpect dominions,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> or <hi>glories,</hi> as the word is; and the <hi>glory</hi> that is there ſpoken is not eivill but eccleſiaſticall, for it is ſuch a kinde of deſpiſing, as <hi>Corah</hi> and <hi>Dathan</hi> were guilty of againſt <hi>Moſes, Jude</hi> 8.11. Now they oppoſed <hi>Moſes,</hi> not as a <hi>Magiſtrate,</hi> but as a <hi>Miniſter</hi> and Law-giver unto the Church, and therfore they ſaid, Are not all the people of the Lord <hi>holy?</hi> and not wiſe, or valorous, or true hearted? which art the vertues of a Magiſtrate. Beſides, falſe teachers are for the moſt part flatterers of Prin-ces, not Deſpiſers, as <hi>Zedekiah</hi> was, and <hi>Simon Magus</hi> who adored <hi>Nero.</hi> Whenyou have the or<g ref="char:EOLhyphen"/>dinances, then the</p>
+            <p>Second thing required to a Reformation, is to have them pure, and after Gods preſcript, without humane addition or alteration: take this for a rule, the more plain Gods ordinances are, the more powerfull; the more there is of man, the leſſe there is of God in them, <hi>Ezek.</hi> 44.7. God tells them they had <hi>polluted</hi> his Sanctuary, that is, made it <hi>common,</hi> the facramentall bread did them no more good than their owne ordinary bread, and the com<g ref="char:EOLhyphen"/>pany of the Saints no more then the company and ſocie<g ref="char:EOLhyphen"/>ty of men. You have this in the text too, for here is <hi>beau<g ref="char:EOLhyphen"/>ty</hi> joyned with <hi>glory</hi> in <hi>verſ.</hi> 2. and <hi>beauty</hi> is a native com<g ref="char:EOLhyphen"/>plexion; here is <hi>glory</hi> joyned with <hi>purging,</hi> the ſpirit of judgement, and of burning, in the verſe before my text; here is <hi>holineſſe</hi> written on every Soule, <hi>verſ.</hi> 3. and to be
+<pb n="5" facs="tcp:41151:6"/>
+               <hi>holy</hi> is all one with being ſet apart to a holy uſe and being prepared, and fitted for it.</p>
+            <p>Thirdly, take <hi>glory</hi> in the higheſt ſenſe that poſſibly you can, yet then it ſuites with <hi>reformation.</hi> Take glory for bliſſe and happineſſe in heaven; the Scripture ſo de<g ref="char:EOLhyphen"/>ſcribes a Church as you can ſcarſe know heaven, and it aſunder; <hi>Heb.</hi> 12.22.23.<note n="†" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, He<g ref="char:EOLhyphen"/>ſich.</note> You are come to the City of the living God, the heavenly Jeruſalem, unto innumerable Company of Angels, unto the<note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, Phil. 3.15. Heb. 11. laſt. LXX Vocant. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> generall aſſembly, to the Church of the firſt borne which are written in heaven, unto God the Judge of all, and unto the Spirits of juſt men made<note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, Phil. 3.15. Heb. 11. laſt. LXX Vocant. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> perfect, &amp;c. and yet it is apparent it is meant of the Church here, for he ſaith they are come into it: and if he had onely meant it concerning the Communion all Saints had together, he had not attained his end, for which he ſpake theſe words; which was to prove that in the new Teſtament there was ſuch a Communion as the old had not in compariſon of it. <hi>Rev.</hi> 21. You have there ſpoken of a City, all whoſe pavement and gates are Jewels, you would thinke it were heaven, but it is not. For you read in the 22.15. of a Judgement day that doth come after; There are three things that make heaven, or everlaſting glory.</p>
+            <list>
+               <item>1. Gods revealing of himſelfe.</item>
+               <item>2. Gods full communicating himſelfe.<note place="margin">
+                     <g ref="char:V">Ʋ</g>niformis in Dewn convolu<g ref="char:EOLhyphen"/>tio intellectualiu<g ref="char:cmbAbbrStroke">̄</g> virtutum, Dio<g ref="char:EOLhyphen"/>nyſide divin. nom. c. <hi>4.</hi> ceſſante diſcurſu, mentis intuitus figitur in contemplati<g ref="char:EOLhyphen"/>one unius ſim<g ref="char:EOLhyphen"/>plicis veritatis, <hi>Aqu. 22.</hi> q. <hi>180. 1 Chro. 16.11. 2 Chro. 7.14.</hi>
+                  </note>
+               </item>
+               <item>3. The convolution or turning of all the Soule up<g ref="char:EOLhyphen"/>on God, according unto what he doth reveale of himſelf: and all theſe are in the Church reformed.</item>
+            </list>
+            <p>Firſt, there is a revelation of God, <hi>Epheſ.</hi> 3.10. the unſearchable riches of Chriſt, and the manifold wiſedome of God is knowne in the Church; therefore it is called his face wherein you may ſee all the motions and turnings of his heart: it is called his <hi>beauty, Pſal.</hi> 27.4. I long to ſee thy <hi>beauty. Beauty</hi> is the ſymmetry and proportion of all parts; if you looke on the actions of God in the world, you cannot ſee how one attribute can accord with ano<g ref="char:EOLhyphen"/>ther. The guilty ſoule underſtands not, how God can be
+<pb n="6" facs="tcp:41151:7"/>juſt and pardon him; the preſuming ſpirit underſtands not how God can proſper him and hate him; the troubled ſinner, how God can afflict and love him. You ſhall ſee all theſe in the Church well agreed. <hi>Pſal.</hi> 73.17.</p>
+            <p>Secondly, In heaven there is a full conveyance of God; and ſo there is in the Church, <hi>Epheſe</hi> 1. <hi>ult.</hi> the Church is the <hi>ful<g ref="char:EOLhyphen"/>neſſe</hi> of God, that is, that which he fills, his fulneſſe paſ<g ref="char:EOLhyphen"/>ſively. They have the increaſes of God, <hi>Coloſ.</hi> 2.19. Now there is nothing in the phraſe of Scripture called by the name of God, but what is eminent, as the moun<g ref="char:EOLhyphen"/>taines of God, the City of God, the increaſes of God, therefore there are ſuch increaſes as paſſe the underſtan<g ref="char:EOLhyphen"/>ding of any, but theſe that have experience and feeling of them.</p>
+            <p>Thirdly, In heaven the ſoule is fixed on God, and be<g ref="char:EOLhyphen"/>ing ſo, is changed into his likeneſſe; the Apoſtle ſaith the ſelfe-ſame thing concerning the Church, 2 <hi>Cor.</hi> 3. <hi>ult.</hi> we looke upon him with open face, and are changed in<g ref="char:EOLhyphen"/>to the ſame image, from glory to glory; in the mini<g ref="char:EOLhyphen"/>ſtration of the word; There is no difference betweene heaven and a Church reformed, but onely this, that in heaven God is enjoyed immediately, here in ordinances; that there you doe receive the fulneſſe of God at once, (though ſome will queſtion it) here by degrees; that there the very preſence of God holds the ſoule to him, here the Miniſter as Gods watchman, he ſaith, <hi>hoc age,</hi> warnes men when as they are remiſſe and careleſſe, the word keeps the eare, the Sacraments, all the ſenſes, and all the thoughts and affections upon God himſelfe. Thus I have donewith the explication of that:</p>
+            <p>Onely (I beſeech) you doe but compare the ap<g ref="char:EOLhyphen"/>prehenſion of the world, and the expreſſion of my text concerning Churches. The world they account Re<g ref="char:EOLhyphen"/>formation a torment. As the devils did Chriſts comming; or <hi>bands</hi> and <hi>fetters,</hi> as the Kings and wiſe men of the earth did, <hi>Pſal.</hi> 2.3. Let us breake theſe bands aſunder, and caſt his cords from us. It is a heaven upon earth,
+<pb n="7" facs="tcp:41151:7"/>
+               <hi>glory:</hi> What inconveniences doe men forecaſt will follow or accompany reformation? but as he ſome timeſaid when he wastold he did ill to deſire to be out of the world and in heaven, before he had done his worke, Whether I ſinne or not (ſaith he) I would I were there. And ſo ſay I concerning inconveniences, what ever they be, it is no mat<g ref="char:EOLhyphen"/>ter, ſo we were in that <hi>glory.</hi>
+            </p>
+            <p>And that you have <hi>Mat.</hi> 11.12. The Kingdome of hea<g ref="char:EOLhyphen"/>ven, that is, the Church of the new Teſtament, ſuffers vio<g ref="char:EOLhyphen"/>lence,<note place="margin">Gen. 19.3. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Gen. 33.11. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Judg. 19.7. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>Chemn. ad loc.</hi>
+               </note> and the violent take it by force, that is, men are ſo ſet on it, as that what ever they pay for it they will enjoy it; ſo violence ſignifieth in the language of the Seventy in not a few places: If <hi>David</hi> might have but one thing in this world, it ſhould be this, that he might live in the houſe of God, in the Church of God, and to behold his <hi>glory</hi> there. <hi>Pſal.</hi> 27.4.</p>
+            <p>But the maine point I would inſiſtion, and for which I have choſen the text, is this:</p>
+            <q>
+               <label type="milestone">
+                  <seg type="milestoneunit">Doctr. </seg>
+               </label> That upon all the glory ſhall be a defence.
+<p>Reformation will be Preſervation.</p>
+            </q>
+            <p>If you will have the trowell in your hands to build Gods houſe, God will carry the ſword in his for your de<g ref="char:EOLhyphen"/>fence.<note place="margin">Rev. 3.20.</note> And in the explication of this I ſhall doe theſe three things.</p>
+            <list>
+               <item>1. Shew you what theſe <hi>evills</hi> are which theſe that goe about <hi>reformation</hi> are liable to, that they need protection againſt.</item>
+               <item>2. Shew what this <hi>defence</hi> is, that you may ſee whether it be anſwerable to the trouble, and oppoſition you ſhall meete with.</item>
+               <item>3. Make <hi>good</hi> this <hi>defence</hi> belonging unto reformation by a reaſon or two; and I ſhall goe no further then the very chapter wherein my text is, for all theſe.</item>
+            </list>
+            <p>Firſt, for the evills, you have three ſorts.</p>
+            <p>Firſt, <hi>Inhumane treacheries,</hi> for this verſe doth referre
+<pb n="8" facs="tcp:41151:8"/>both unto <hi>Pharaohs</hi> perſecution, and to the dealings of the Canaanitiſh Kings with the people of <hi>Iſrael</hi> in the Wil<g ref="char:EOLhyphen"/>derneſſe.<note place="margin">Exod. 14.24. Exod 13.15. Deut. 31.15.</note> 
+               <hi>Pharaohs</hi> dealing was very <hi>treacherous,</hi> he bad the people goe, gave them their liberty by Proclamation, but when he had got them at advantage, he brought up an Army to cut them off; the Kings of <hi>Canaan</hi> dealt very <hi>in<g ref="char:EOLhyphen"/>humanely,</hi> they would neither let the Iſraelites live quiet<g ref="char:EOLhyphen"/>ly by them, nor paſſe quietly through them; they would neither let them have things for their neceſſities freely, nor afford them for their monies; The reforming Church will meet with ſuch kind of enemies, yet they are not all, but</p>
+            <p>Secondly, here is in the fift and ſixt verſes, <hi>heat</hi> and <hi>cold,</hi> that is, ſuch evills as are <hi>intolerable,</hi> for who can abide his froſt? <hi>unavoidable,</hi> for there is none can hide himſelfe from the heate, as it is in the 19. <hi>Pſalm,</hi> they are ſuch evil<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s as are conſtant, as the ordinances of night and day, Summer and Winter; they are ſuch as are ſucceſſive, one comming on the neck of another: when <hi>Pſal.</hi> 121.6. he had ſaid, He ſhall keepe thee that the Sun ſhall not burne thee by day nor the Moone by night; in the next verſe as an ex<g ref="char:EOLhyphen"/>plication of that he ſaith, He ſhall deliver thee from <hi>all e<g ref="char:EOLhyphen"/>vill:</hi> There is nothing then that is evill, but it is com<g ref="char:EOLhyphen"/>prehended under <hi>heat</hi> and <hi>cold</hi> of which this verſe ſpeakes.</p>
+            <p>Thirdly, you have alſo <hi>ſtorme</hi> and <hi>raine</hi> ſpoken of <hi>(covert from the ſtorme and the raine,)</hi> that is, ſuch evils as are <hi>deſo<g ref="char:EOLhyphen"/>lating,</hi> and come on a ſuddame before one be prepared for the enduring of them; when Chriſt would expreſſe the ſudden and great apoſtaſy of theſe which built on the ſand, he tels them the <hi>ſtorme</hi> and the <hi>raine</hi> fell, on them and they with it; In <hi>Pſal.</hi> 11.6. when God would ſet out the judgements he brings on the World, he tells them there ſhall come <hi>ſtorme</hi> and <hi>raine,</hi> of fire and brimſtone; the Church reformers muſt looke for ſuch like ſtormes, that all the Anchors they have cannot hold, they ſhall be left meerely to <hi>mercy,</hi> and the <hi>power</hi> of God, ſuch evills come
+<pb n="9" facs="tcp:41151:8"/>and they know not the morning of it, <hi>vipers</hi> in their own bowels, <hi>traytors</hi> among their veryeſt friends which they ſuppoſed not; ſuch plots as are <hi>ruinous,</hi> ſuch deſignes as will make an <hi>utter end;</hi> that is the firſt thing; and yet a<g ref="char:EOLhyphen"/>gainſt theſe there ſhall be defence.</p>
+            <p>Such evils as you have heard, the Church is ſubject unto, not becauſe Chriſt doth not love her, but that you may ſee he doth, for he comes in to their <hi>defence:</hi> A Ship that is toſt at Sea in a ſtorme, is ſet ſo much nearer heaven, that is all that troubles ſhal do to you; if you have more ſtomes, God will have more care, if the wind riſe, you ſhall bee ſure it ſhall be either faire for you, or elſe it ſhall not hurt you; <hi>for upon all the glory there ſhall bee a Defence.</hi> Its bet<g ref="char:EOLhyphen"/>ter to be in trouble that God may ſhew himſelfe for us more then ordinarily, then to be without trouble, with or<g ref="char:EOLhyphen"/>dinary comforts. And for this <hi>Defence,</hi>
+            </p>
+            <p>You have <hi>five words</hi> in this little Chapter to ſet it forth, <hi>tabernacle, ſhadow, place of refuge, a covert,</hi> and <hi>defence;</hi> the word of my Text; God uſeth more words in promiſes then in any other diſpenſation, he ſpeakes ſhort when he threates, hee ſpeakes largely when hee promiſes; his heart is broken into many words, that ſo there may bee no miſtake or doubt in us. He uſeth more words in this matter of <hi>preſervation,</hi> than he doth in any other. It is the obſervation of <hi>Muſculus</hi> on <hi>Pſal.</hi> 121. (a Pſalme that is of the nature of my Text) that though there be but eight verſes in it, yet we have the word <hi>keepe</hi> uſed <hi>five</hi> or <hi>ſix</hi> times; the Lord ſhall <hi>keepe</hi> thee, the Lord ſhall <hi>keepe</hi> thee, and ſo forth; God ſpeakes often of His defending of us, becauſe there are but few who thinke He is <hi>Defender of the Faith,</hi> that naile will hardly downe, therefore God gives it ſo many blowes;<note place="margin">Calv. ad loc.</note> Who is there that glorifies God as one that will preſerve him in well doing? Though all that doe beleeve doe thinke they ſhall meete with <hi>ſalvation</hi> at the laſt, yet for <hi>preſervation</hi> here, as ſoone as one hath got his heart a little quiet, the next danger that comes is like the wind unto the leaves of the wildernes, that takes it
+<pb n="10" facs="tcp:41151:9"/>all away; God ſpeakes often that you may beleeve its ſure he ſaith. You have many doubts; therfore God hath many words; you ſay God will in this, but it may be another trouble may come, and there he will leave; why ſaith God, what ſort ſoever your troubles be, let them be heat or cold, raine or ſtorme; let them be plotted, concealed miſchieſe, againſt all that I will be a <hi>defence,</hi> look you but to my <hi>glory.</hi> Let us looke a little unto every one of the words he ſaith.</p>
+            <p>Firſt, he will be a <hi>Tabernacle;</hi> ſo it followes in the ſixt Verſe; the word ſignifyeth to cover a thing from the ſight of another, by laying ſomething on it, as <hi>Rahab</hi> hid the ſpies from the ſearchers, or as the <hi>helmet</hi> hides the body from the adverſary, or as the <hi>blind</hi> hides him that is un<g ref="char:EOLhyphen"/>dermining the walls, for in all theſe ſorts is the word uſed, in <hi>Nahum</hi> 2.5. <hi>Pſal.</hi> 140.7. and ſo the meaning of it is this, that either God will ſo keepe you that your enemies ſhall not finde out what you are about, or if they doe, yet nothing ſhall come neare you for to hurt you. If that bee not enough, then</p>
+            <p>Secondly, you have a <hi>ſhadow,</hi> and the ſhadow of a <hi>rocke,</hi> as it is expounded, <hi>Eſa.</hi> 32.2. <hi>A ſhadow</hi> you know is <hi>cooling</hi> and <hi>refreſhing,</hi> and makes the heat of the day as though it were not. If that be not enough,</p>
+            <p>Thirdly, you have a place of <hi>refuge; Montanus</hi> tranſlates it <hi>confidentiam,</hi> a ſpirit above all danger, that will not ſtoope or be baſe for any inconvenience it ſhall ſuffer; If that be not enough,</p>
+            <p>Fourthly, you have a <hi>Covert;</hi> your enemies may ſtrike, and breake themſelves, they ſhall not hurt you, as the great drops that fall upon the houſe breake themſelves into lit<g ref="char:EOLhyphen"/>tle ſmall things that will wet no body. But to come to the word in my Text, <hi>Defence.</hi>
+            </p>
+            <p>Fiftly, <hi>Defence</hi> it hath a threeſold reference; firſt, to the Arke; ſecondly, to the people of <hi>Iſrael</hi> in journying from <hi>Egypt;</hi> thirdly, unto the cuſtome of marriages among the Jewes.</p>
+            <p>Firſt, to the Arke, which is called glory; in the Arke<g ref="char:EOLhyphen"/>there
+<pb n="11" facs="tcp:41151:9"/>was Manna, <hi>Aarons</hi> rod, and the Teſtimony; the mercy ſeat, or propitiatory, was the covering of it, and this ſignifyed Chriſt, <hi>Pſal.</hi> 32.1. upon this covering there were two Cherubims, the emblemes of Angels, on that God ſate as on a throne of Majeſtie, <hi>Pſal.</hi> 99.1. from this God gave direction to them, <hi>Exod.</hi> 25.22. <hi>Numb.</hi> 7.89. And all this comes to thus much, that Chriſt, and God, and Angels, all ſhall be with you; for the ſinnes whereby you have provoked God, he will be propitious, if there be any helpe in heaven he will afford it; if you referre it,</p>
+            <p>Secondly, to the people of <hi>Iſrael</hi> journying from <hi>Egypt,</hi> ſo this <hi>defence</hi> was the <hi>pillar</hi> of cloud, and fire, and told them thus much, that no naturall evills, (for the cloud kept off the heat) no ſpirituall evill ſhould befall them;<note place="margin">1 Cor. 10.</note> for it was a Sacrament that God would direct them in all their counſels; he would interpoſe betweene them and all their foes.</p>
+            <p>Thirdly, if you referre it unto the cuſtome of Marria<g ref="char:EOLhyphen"/>ges among the Jewes, as in the <hi>Pſal.</hi> 19.6. and <hi>Joel</hi> 2.16.<note place="margin">Vide Sanct. pre<g ref="char:EOLhyphen"/>leg, in Cant.</note> the cuſtome was to have a Canopie for State, carried over the head of the Bride in the day of marriage, and ſo the phraſe is thus much, God will honour you; you may now be accounted rebels, it ſhall appeare you are loyall; you may be accounted breakers of Lawes, it ſhall appeare you are the children of juſtice, there is not an imputation, but God will waſh it from you. And ſo I have done with the ſecond point.</p>
+            <p>
+               <hi>Queſt.</hi> But how will this be made good, you will ſay to mee? Thus.</p>
+            <p>Firſt, that God will defend them, it appeares by the guard he hath ſet over them which are his <hi>glory;</hi> Angels campe about ſuch, <hi>Pſal.</hi> 34.8. all the while that <hi>Cam<g ref="char:EOLhyphen"/>byſes</hi> in the abſence of <hi>Cyrus</hi> raged againſt the Church, <hi>Daniel</hi> 10. <hi>verſ.</hi> 13. there is an Angell left in <hi>Perſia</hi> to looke unto him; you are the charge of Jeſus Chriſt, <hi>Zach.</hi> 1.10, 11, 12. Verſes, and obſerve, he is among the Myrtle
+<pb n="12" facs="tcp:41151:10"/>tree that is the Churches, taking account of the Angels, in Verſe 10. upon <hi>Horſe-backe,</hi> to note his ſpeedy ſuccour, on a <hi>red</hi> horſe, becauſe he will have the blood of your adver<g ref="char:EOLhyphen"/>ſaries: And he doth not onely fight, but prayes. O Lord of Hoaſt, ſaith he, how long wilt thou not have mer<g ref="char:EOLhyphen"/>cy on <hi>Jeruſalem</hi> and on the Cities of <hi>Judah?</hi> 1 <hi>Cor.</hi> 10.4. the Rocke that followed them was Chriſt; not that the water of the Rocke did alway follow them, for that fai<g ref="char:EOLhyphen"/>led, and the people were athirſt in the Wilderneſſe, but <hi>Chriſt</hi> ſignifyed by the <hi>Rocke</hi> was alwayes with them for their preſervation. As the tender parent thinkes that none can looke to the beloved child ſo well as ſhee, and therefore alwayes hath it in her armes; Its ſo with God too, and therefore you have it in <hi>Iſaiah</hi> 27.1.2.3. Verſes, Leſt any hurt it, I will keepe it night and day.</p>
+            <p>Secondly, it appeares that on the glory there ſhall bee a defence, becauſe the glory of the Church is the glory of God. In <hi>Judges</hi> 9.3. the Vine is ſaid to cheere the heart of God; the Chaldee expounds it thus, <hi>Ex quo libatur ante Dominum,</hi> becauſe God was ſerved with it. <hi>Haggai</hi> 1.8. God makes the Church his heaven, as it is our meanes to hea<g ref="char:EOLhyphen"/>ven, Goe, ſaith he, and build my houſe and I will be <hi>glori<g ref="char:EOLhyphen"/>fied</hi> in it.</p>
+            <p>
+               <hi>Queſt.</hi> But how can this thing be, you'l ſay?</p>
+            <p>
+               <hi>Anſw.</hi> Conſider as there is a double <hi>incarnation</hi> of Chriſt as I may call it, one proper in the fleſh of his per<g ref="char:EOLhyphen"/>ſon, another myſticall in the fleſh of his Saints, and therefore they are called Chriſt, 1 <hi>Cor.</hi> 12.12. And <hi>Paul</hi> is ſaid to fulfill the ſufferings of Chriſt in his body, <hi>Col.</hi> 1.24. ſo you may conceive a double <hi>glorification</hi> of God, the one in the beholding of his excellencies in <hi>himſelfe,</hi> the other in beholding of himſelfe in us and in his worſhip: As the beames of the Sunne falling on the earth rayſe up the height of the skie, and make all the glory of the heavens to appeare, ſo doth the glory of God, or the attributes of God doe unto his glory; when either they are beſtowed, or manifeſted to his Churches.</p>
+            <pb n="13" facs="tcp:41151:10"/>
+            <p>Thirdly, if ſo bee the Church ſhould ſuffer ruine,<note place="margin">Vide Iun. ad Icc.</note> the whole world would come to ruine too, <hi>Iſay</hi> 6.13. for the holy are as the props and pillars of it.</p>
+            <p>There is onely one objection may bee made againſt this defence;</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label> That <hi>Revel.</hi> 11.7. when the meaſure of the temple was come downe from heaven, and the witneſſes had declared their reſtimony fully, yet then they were ſlaine.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> But I anſwer, you ſhall find there, firſt that they had fi<g ref="char:EOLhyphen"/>niſhed their teſtimony; and as all Chriſts enemies could not put him to death one moment before his houre was come; neither could all the adverſaries of the Churches theſe witneſſes before they had ſpoken the laſt word, <hi>when they had finiſhed their teſtimony, Verſ.</hi> 7.</p>
+            <p>Secondly, you ſhall find they devoured their adverſaries, even as the fire that came out of the Over and Furnace in the Booke of <hi>Daniel,</hi> devoured thoſe which ſtood be<g ref="char:EOLhyphen"/>fore it; In the 11. Verſe you ſhall finde that they could not be overcome, and in the the 13. Verſe, when as the Popiſh partie thinke that now they have none to trouble them, then ſhall there come an earthquake (a part of this defence) ſuch civill warres as ſhall be their utter ruine, but the advance of theſe witneſſes againe to renoune and glo<g ref="char:EOLhyphen"/>ry. Now we have done altogether with the Explication of the Text; I come to the Application of it:<label type="milestone">
+                  <seg type="milestoneunit">Ʋſe </seg>1</label> 
+               <hi>
+                  <g ref="char:V">Ʋ</g>pon all the Glory there ſhall be a defence.</hi>
+            </p>
+            <p>Firſt, ſee the reaſon why God doth expoſe his people, the people called by his name, to ſo many troubles? why he lets in croſſes, calls in enemies, diſheartens and diſables theſe that are on his ſide? they have defiled his glory, and therefore he will not defend them, God will take his owne peoples part in nothing that is evill; as is it with a Dia<g ref="char:EOLhyphen"/>mond, if it be not right it is worth nothing, or a picture, if it be not to the life, it is of no value; and ſo it is with the ordinances of God, if they bee not pure and after Gods minde. That which is ſaid concerning one ordi<g ref="char:EOLhyphen"/>nance
+<pb n="14" facs="tcp:41151:11"/>
+               <hi>the miniſtry,</hi> is true concerning all, if they have loſt their ſavour, they are not fit to be kept, but to be throwne out to the dunghill. What would you have God to doe, (my beloved) would you have him defend the people cal<g ref="char:EOLhyphen"/>led by his name, when they are but <hi>ſo called,</hi> but are <hi>ene<g ref="char:EOLhyphen"/>mies</hi> to his <hi>glory?</hi> would you have him imbrace his Spouſe when ſhee hath playd the harlot, and brought forth to ſtrangers? would you have him keepe his houſe when the devils haunt it? for ſo in 1 <hi>Cor.</hi> 10.21. that which is not done by the word in Godsworſhip, is done unto devils, be<g ref="char:EOLhyphen"/>cauſe he is the appointer of it: would you have him defend theſe that oppoſe him? who ever they be that corrupt his worſhip, or are corrupt in his worſhip, they ſhame God, they diſgrace God, nay they doe as much as they can to make God unhappy, to take from him his <hi>glory,</hi> and there<g ref="char:EOLhyphen"/>fore upon them there ſhall bee no defence.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Uſe </seg>2</label> Secondly, let this point ſtrike the Rocke, and ſtreames of teares burſt forth, let it open a ſpring in dry places, for the ſtaines that have beene, and that are on our <hi>glory,</hi> on our Religion, that ſo we may prevent the ruine and deſo<g ref="char:EOLhyphen"/>lation, which if it be not timely lookt unto will come on us. Firſt, mourne for the corruptions which have beene in Religion; ſo <hi>Nehemiah</hi> did in <hi>Nehem.</hi> 9.16.17.26.28. Verſes, and yet ſome of theſe ſinnes were committed ma<g ref="char:EOLhyphen"/>ny hundred yeares before he was borne; A man is guilty of all the ſinnes he knowes and doth not grieve for, becauſe all thoſe he likes. How hath it beene (I be<g ref="char:EOLhyphen"/>ſeech you) with us in this land! the face of Religion was growne wan and pale unto the death, her beautie gone, her favour changed, her countenance ſo ſmutted, man<g ref="char:EOLhyphen"/>gled, blurd, that you could ſcarce know her; her owne children were afraid of her; and therefore fled from her, as from her (in the ſtory) that would have put them unto death; her ſpeech was changed, ſhe ſpake ſhe knew not what; in ſtead of <hi>Miniſter</hi> ſhe ſaid <hi>Prieſt,</hi> for <hi>Sacraments, Sacrifice,</hi> for <hi>Table, Altar;</hi> her heart was wounded, her fundamentall doctrines raſed, her worſhip mingled, ori<g ref="char:EOLhyphen"/>ginall
+<pb n="15" facs="tcp:41151:11" rendition="simple:additions"/>ſinne denied, the will of man was made ſupreame over God, and God a ſervant unto it. Chriſts precious blood made common, ſhed without reſpect unto any ones good in particular, and for ought that either Chriſt or God the Father knew, for all his death no man ſhould bee ſaved by it; for all was left unto mans will, and of a fallible cauſe there can be no certaine and infallible know<g ref="char:EOLhyphen"/>ledge. When God had beene at all the coſt of Chriſts blood, and at the putting forth his right hand to worke grace in mans heart, yet ſtill man was at his owne will, ſo that he could make all this coſt of God in vaine; Hee certainly is not God who is ſo unwiſe; they might as well have ſaid there is no hell; for if this bee a naturall power to will the things which are contradictory, no man can bee damned for it, for what ever is naturall is good, and the putting forth of a naturall power cannot be of ſuch ill deſert. The deitie of God was denyed, and as you may find in the laſt Canons, as great penaltie put upon one, that ſhould not ſay that Biſhops were <hi>Jure Divino,</hi> as on him who denyed that Chriſt or the Father were not God; The perſon of the Holy Ghoſt was queſti<g ref="char:EOLhyphen"/>oned. I might ſend you the parts of Religion as the Le<g ref="char:EOLhyphen"/>vites Concubines quarters were ſent abroad unto all the Tribes: give me leave to repreſent it to you like <hi>Tamar, Ammons</hi> ſiſter, with her hands on her head, thruſt out of doores, and complayning in the ſtreets with teares, thus; They have raviſhed me, and forced me to their wills and ends, they pretended love to mee, but intended Popery, and Atheiſme; they have corrupted mee, and now they cannot abide me; ſome of my children have beene ſtarved for want of food, ſome have falne into diſeaſes, becauſe the food they had was not wholeſome, and ſome were forced from me to the howling Deſart and Wilderneſſe; Who can now abſtaine from teares? Looke on the pre<g ref="char:EOLhyphen"/>ſent corruption, Chriſts body is troden under feet by Swine in the Sacrament, the Sabbath prophaned, puri<g ref="char:EOLhyphen"/>tie nicknamed, reformation feared more than vaſſallage.
+<pb n="16" facs="tcp:41151:12"/>Never, never was the <hi>glory</hi> ſo neere departing as it is now, it is on the threſhold, taking the wing; we are at that paſſe they were <hi>Joel</hi> 2.14. <hi>who can tell</hi> whether God will re<g ref="char:EOLhyphen"/>turne and leave a bleſſing behind him? and therefore it is time to rend your hearts, and turne unto the Lord; Reli<g ref="char:EOLhyphen"/>gion is a going, perſecuted by Papiſts, hated by the ig<g ref="char:EOLhyphen"/>norant, unkindly uſed by her owne friends. <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label> Its true in<g ref="char:EOLhyphen"/>deed that people have offered themſelves willingly unto reformation;<note place="margin">
+                  <hi>1 Chro. 29.</hi>
+               </note>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> but <hi>David</hi> (you know) and the people did ſo long before God built the Temple. <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label> Its true there are many righteous among us, never kingdome afforded ſo many; <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> but yet ſcarce will <hi>Abrahams</hi> ten be found to the number of other prophane perſons; <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label> its true, there are that humble themſelves in duſt and aſhes, <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> but there are (as you heard to day) that make theſe dayes of mourning like dayes of ſlaughter, <hi>Iſaiah</hi> 22.13. and if there were none ſuch, there is a time when mourning, prayers, teares, humbling will doe no good, but meerely to mens owne ſoules, <hi>Levit.</hi> 26.40. unto 44. if they doe accept of the pu<g ref="char:EOLhyphen"/>niſhment, and humble themſelves, yet the land ſhall lie deſolate and enjoy her Sabbaths: The Lord grant this bee not our condition, becauſe wee have beene often threat<g ref="char:EOLhyphen"/>ned, and afflicted, but have not returned; the light it is true ſhines very gloriouſly <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label> and it hath broke out of the clouds that covered it, <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> but the Sunne ſhines moſt brightly a little before it ſets; <hi>Jeruſalem</hi> had never better preaching then a little before its ruine, then ſhee had Chriſt and the Apoſtles; <label type="milestone">
+                  <seg type="milestoneunit">Obj. </seg>
+               </label> There are many that deſire re<g ref="char:EOLhyphen"/>formation its true, <label type="milestone">
+                  <seg type="milestoneunit">Anſ. </seg>
+               </label> but looke in that place of <hi>Revel.</hi> 11.7. when that the witneſſe of the meaſure of the temple was delivered, they were all ſlaine, and Antichriſt came to ſit in his Throne with greater quietneſſe than e<g ref="char:EOLhyphen"/>ver before, for now all that would trouble them were taken away. What would the miſery of this land bee ſhould Religion periſh? ſhall I preſent it to you in the car<g ref="char:EOLhyphen"/>riage of <hi>Phineas</hi> wife? 1 <hi>Sam.</hi> 4.20. the griefe of it made her miſcarry, ſhee is ſenſeleſſe of any other griefe,
+<pb n="17" facs="tcp:41151:12"/>but the loſſe of the <hi>Arke</hi> and <hi>Glory,</hi> ſenceleſſe of the death of her Husband, of the paines of her travell, yea, of the parting of her ſoule and body; ſhe is deaf to all comforts, comforts of life, of children, of friends and ſhe cryes out, not as one in pains of death, but going to hell, <hi>The glory is departed, the glory is de<g ref="char:EOLhyphen"/>parted:</hi> Come I beſeech you, and ſtand by the death<g ref="char:EOLhyphen"/>bed of this dying Saint, heare her groaning out her ſoul, and taking her farewell of the world, and all her friends, and ſhee ſaith thus, My life is a burden, my children nothing, the land a hell to mee, <hi>the glory is departed:</hi> the death of my Husband, the loſſe of my Father, tenderer to me then he, I could have borne, might I but have injoyed Religion: Had I but bread and water, though I had made a hard ſhift for my ſelfe and my poore children, I ſhould have been ſatiſ<g ref="char:EOLhyphen"/>fied; but now ſpeake unto mee no word of comfort, let me alone to dye, I have lived in <hi>glory,</hi> and I cannot live otherwiſe: and dying, ſhe breathes out her ſoule and theſe words together. <hi>The Arke, the Arke, the Glo<g ref="char:EOLhyphen"/>ry, the Glory is departed;</hi> and it was not a feminine paſ<g ref="char:EOLhyphen"/>ſion, though that <hi>Jeremiah</hi> was made like a braſen Wall, yet he ſaith in one place, <hi>his eyes wept in ſecret,</hi>
+               <note place="margin">
+                  <hi>Ier.</hi> 13.17. Si totus vertar in fletum, &amp; ne<g ref="char:EOLhyphen"/>quaquam guttae ſint lachryma<g ref="char:EOLhyphen"/>rum ſed abun<g ref="char:EOLhyphen"/>dantia fluminis, non ſatis dignè flevero, <hi>Hieron. ad locum. Pſal.</hi> 84.2.</note> 
+               <hi>and he could not weep enough, Jer.</hi> 9.1. <hi>Iſaiah,</hi> Iſa. 22.3. cryes out, <hi>Let me alone, I will weep bitterly, I will not bee comforted. David,</hi> that had the heart of a Lion, yet ſayes, <hi>My fleſh cryes;</hi> the word that is tranſlated <hi>(cries)</hi> when as it is given to any thing but the voice, it ſig<g ref="char:EOLhyphen"/>nifieth bedewed cheekes, blubbered eyes, pale face, waſted ſpirits, yet all this was in <hi>David,</hi> becauſe he was put from the houſe of God. Can you, can you (my beloved) love theſe ſinnes that brings this loſſe? can you love your ſelves, who have done theſe ſins? can you part with <hi>Gods glory,</hi> your <hi>owne glory,</hi> your <hi>defence</hi> too, and not be troubled? The ſin for which God ſuffers Religion to be corrupted, and by which it is corrupted, are the greateſt ſins, becauſe they are
+<pb n="18" facs="tcp:41151:13"/>againſt Gods Crowne and Glory; if theſe move not, what will?<note place="margin">
+                  <hi>Iudg.</hi> 18.23, 24.</note> 
+               <hi>Micah</hi> could not let his Idols goe, but he cryed out; and can you let the Goſpel go, and Chriſt goe, and not doe ſo much? Jeſus Chriſt, who never ſhed a teare for all he ſuffered, wept, and could not ſpeake for weeping, when the Goſpel was departing; hee wept and ſaid, <hi>O that thou hadſt knowne,</hi> and hee could goe no farther: every word hee ſpake was uttered with a ſigh, and pointed with a teare, and hee could goe no further then, <hi>O that thou hadſt knowne, at leaſt in this thy day, the things which belong unto thy peace:</hi> Shall the <hi>thoughts</hi> of it make Chriſt weep and not the <hi>feeling</hi> of it make you? Let me but ſet before you as in a viſion, the ſtate of ſoules when as the glory is gone, Religion is corrupted, Popery (which you fea<g ref="char:EOLhyphen"/>red) brought in, one ſoule lyes dying in its ſinne, an<g ref="char:EOLhyphen"/>other gaſping after comforts, a third poſſeſt with le<g ref="char:EOLhyphen"/>gions of temptations, a fourth bleeding to death, and there is none to ſtanch the iſſue; the cure that is given worſe then the diſeaſe; a fift looking on this ſide, and that, ſaying, <hi>Who will give me of the waters of life?</hi> O that one day of the Son of man might now be affor<g ref="char:EOLhyphen"/>ded; one Sermon, one inſtruction, one promiſe ope<g ref="char:EOLhyphen"/>ned; but all in vaine, the <hi>glory</hi> is gone. And if this doe not melt you, yet let good <hi>nature</hi> move you, for when the glory is gone, your <hi>defence</hi> is gone; your workes ſhall be ſleighted, your walls raſed, your Armies diſcomfited, your name bee rotten and cor<g ref="char:EOLhyphen"/>rupted, your wives raviſhed, your children murthe<g ref="char:EOLhyphen"/>red, your houſes plundered, and which ſhall lye up<g ref="char:EOLhyphen"/>on you with the loſſe of all, and which is worſt of all, that all this is come, becauſe the <hi>glory</hi> hath not been regarded: If ever you would have the <hi>glory</hi> ſtay (my beloved) and have it returne from the thre<g ref="char:EOLhyphen"/>ſhold, into the midſt of the Temple, it muſt bee by intreaty, and intreaty with teares; in <hi>Ezek.</hi> 43.10. <hi>If they be aſhamed of all they have done, then ſhew them the
+<pb n="19" facs="tcp:41151:13"/>forme of the houſe:</hi> And ſo I have done with that Uſe.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Vſe </seg>3</label> Thirdly, if upon the <hi>glory</hi> there ſhall be a defence, be not therefore <hi>fearfull,</hi> but <hi>beleeve;</hi> ſet downe this; Your purity is your ſafety. It is an ordinary word, <hi>God defend,</hi> when any danger or evill is foretold; God will not <hi>defend</hi> except you be a <hi>glory;</hi> He will <hi>defend</hi> when you are. What meane theſe trembling hands, and ſhaking knees, and diſcouraging words? all will come to nothing, the cauſe will be loſt; what could you doe more if you had no defence? and what de<g ref="char:EOLhyphen"/>fence would you have, if this bee not enough, <hi>God?</hi> Shall hee that is on a Rocke feare underminings? There is nothing makes more <hi>ſtrong</hi> then <hi>faith,</hi> be<g ref="char:EOLhyphen"/>cauſe it makes Gods power mans; <hi>I am able to doe all things through him that ſtrengtheneth mee;</hi> There is no<g ref="char:EOLhyphen"/>thing makes more <hi>weake</hi> then <hi>feare,</hi> becauſe it doth not onely put God from man, who is his Help; but ſets God againſt man, as his enemy; the <hi>promiſe armes</hi> God, and girds him with ſtrength; <hi>faith</hi> in the pro<g ref="char:EOLhyphen"/>miſe, brings God to the uſe of his armes, it ſaith unto him as <hi>Dalilah</hi> did unto <hi>Samſon, The Philiſtines are upon thee,</hi> ſhew thy ſelfe, or (as God ſpeakes in the Prophet) <hi>purſue, and follow, and deſtroy;</hi> ſo ſaith Faith, Now they are in armes rout them, ruine them, now they have lift up their hands againſt thee make an utter end of them; doe what thou canſt, who canſt do what thou wilt. It is worth your obſervation, the Iſraelites had never met with ſo many troubles in going to the land of <hi>Canaan</hi> had not their hearts been full of ſo many <hi>doubts</hi> and <hi>feares; If you will not beleeve, you ſhall not be eſtabliſhed,</hi> Iſa. 7.9. Compare together the <hi>cauſes</hi> of your feare, and your <hi>defence;</hi> what are your <hi>enemies</hi> but <hi>creatures?</hi> your <hi>defence, God: Man</hi> is againſt you, <hi>God</hi> is for you: if ſo be they be <hi>raine</hi> you have a <hi>covert;</hi> if they be a <hi>ſtorme</hi> you have a <hi>rocke;</hi> if ſo be they bee <hi>heat,</hi> you have a <hi>tabernacle:</hi> Shall the
+<pb n="20" facs="tcp:41151:14"/>Lion dread the Lamb, and the ſtrong the weake, the Gyant the Pigmy?</p>
+            <p>Why buſie you your ſelves about the thing be<g ref="char:EOLhyphen"/>longs not to you? Look you to the <hi>glory,</hi> God will to your <hi>defence</hi> and ſafety. You muſt provide meanes, God will find ſucceſſe; There is a <hi>careleſneſſe</hi> of <hi>faith,</hi> as well as a <hi>careleſneſſe</hi> of <hi>ſecurity, Ezek.</hi> 28.16. it is pro<g ref="char:EOLhyphen"/>miſed they ſhould <hi>dwell ſafely,</hi> and the ſame word <hi>Iſa.</hi> 32.9. is tranſlated <hi>careleſſe:</hi>
+            </p>
+            <p>
+               <hi>Why doe yee feare, O ye of little faith? who ever peri<g ref="char:EOLhyphen"/>ſhed being innocent?</hi> what Church ever ſuffered while it retained it's <hi>glory? Epheſus</hi> was delivered up, but they <hi>loſt their love</hi> firſt,<note place="margin">
+                  <hi>Iudg.</hi> 5.8.</note> 
+               <hi>Rev.</hi> 2. there were <hi>wars</hi> in the gates of <hi>Iſrael,</hi> but there were <hi>dols</hi> firſt; where there is no droſſe to purge, God will not caſt into the fire.</p>
+            <p>What doe you make of God, in thinking, that while you are about his work he will not defend you? but <hi>unfaithfull,</hi> in not keeping his promiſe; <hi>unkinde,</hi> to leave you, who are his Church and Spouſe, unto the rage of men; <hi>uniuſt,</hi> to take part with the wicked adverſaries againſt you; yea, <hi>unnaturall,</hi> not to regard his owne glory and happineſſe.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ob. </seg>
+               </label> But you will ſay, there are many oppoſitions in the way of reformation.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſ. </seg>
+               </label> I anſwere,<note place="margin">
+                  <hi>Iſa.</hi> 48.22. <hi>with</hi> 57.20, 21.</note> elſe you needed no defence; the wicked will alwaies be like the raging ſea, they will caſt forth mire and dirt, when once God doth reduce, and bring his people back to ſuch an eſtate of glory. Truth is brought into the world with pain, it's born in bloud; there never was, nor never ſhall be a thorow Refor<g ref="char:EOLhyphen"/>mation without troubles, for the moſt are alwayes the worſt, and will not indure it, <hi>Act.</hi> 2 19, 20. <hi>Mal.</hi> 4.1. &amp;c.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ob. </seg>
+               </label> The meanes are very low.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſ. </seg>
+               </label> Marke my Text, <hi>Hee will</hi> create <hi>on Mount Sion a de<g ref="char:EOLhyphen"/>ſence;</hi> and <hi>creation</hi> is out of nothing.</p>
+            <pb n="21" facs="tcp:41151:14"/>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ob. </seg>
+               </label> Our ſinnes are many.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſ. </seg>
+               </label> But God will create, in Creation God hath no Partner; and hee uſeth this word here in this thing, that you may know he is moved onely by his owne will.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ob. </seg>
+               </label> But they ſuffer moſt who are for the glory.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſ. </seg>1</label> Many pretend they are for the <hi>glory,</hi> they are for <hi>reformation</hi> or when they are but for <hi>revenge,</hi> or for ſome particular ends of their owne; as one turned Turke, that ſo he might be revenged on one that ſtruck him, ſo many-turne Chriſtians, turne unto a good cauſe, that they may meet with them that did oppoſe them: <hi>Jehu</hi> ſaid hee was for God, when hee was for his Crowne.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſ. </seg>2</label> Secondly, if thoſe who are for the glory <hi>ſuffer,</hi> their ſufferings preſerves the <hi>glory;</hi> ſuffering puts an <hi>ac<g ref="char:EOLhyphen"/>cent,</hi> a note of obſervation, upon that for which it is, and ſaith, this is a practiſe, a truth to be ſtood for un<g ref="char:EOLhyphen"/>to the death, in this there is a better thing then in life it ſelfe.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſ. </seg>3</label> Thirdly, by the ſufferings of ſome, there are many preſerved from ſufferings; for it is in Martyrdome as in puniſhment, <hi>Poena ad paucos, timor ad omnes;</hi> ma<g ref="char:EOLhyphen"/>ny eſcape, becauſe ſome feele: in <hi>Heb.</hi> 11. they <hi>ſtopped the mouths of Lions;</hi> that is, as it may bee expounded by what we finde in the ſtory of the Roman Empire, it was forbidden to put any more of the Chriſti<g ref="char:EOLhyphen"/>ans to death, becauſe (ſay they) they make nothing of death.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ob. </seg>
+               </label> But <hi>when</hi> ſhall this be, that wee ſhall have this <hi>de<g ref="char:EOLhyphen"/>fence?</hi> when will the <hi>ſpeares be broken into Plow-ſhares?</hi> when will the <hi>Lord</hi> ariſe and <hi>ſave?</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſ. </seg>
+               </label> When you have the <hi>glory:</hi> and let me tell you this, you have made a <hi>reformation</hi> when you have made a <hi>reſolution,</hi> if it be on good grounds. And I will prove it from Scripture too, 2 <hi>Chron.</hi> 30.19, 20. they were not ſanctified according to the purification of the
+<pb n="23" facs="tcp:41151:15"/>Sanctuary, who came up unto the Paſſover, but their heart was ſet to be ſo, and the Text ſaith, <hi>God healed the Land.</hi>
+            </p>
+            <p>Fourthly, ſet on (I beſeech you) on the worke of Reformation; You may reforme things that are amiſſe, you have a Law of God for it, <hi>Ezra.</hi> 5.1. they began to build the Temple; the decree of King <hi>Darius</hi> came after in <hi>Chap.</hi> 6.12. You have a <hi>Funda<g ref="char:EOLhyphen"/>mentall</hi> law for it, a Law of Nature, it is for your <hi>defence; upon all the glory there ſhall be a defence; Reforma<g ref="char:EOLhyphen"/>tion</hi> is your <hi>Militia,</hi> your <hi>Army,</hi> your <hi>Bul-warkes,</hi> your all in all; but be ſure when you goe about <hi>Reforma<g ref="char:EOLhyphen"/>tion</hi> you make it a <hi>Glory;</hi> the foundation of utter ru<g ref="char:EOLhyphen"/>ine is layde in, firſt Reformation commonly; or in reformation, 1 <hi>Chron.</hi> 15.13. there was but one cir<g ref="char:EOLhyphen"/>cumſtance of perſon out of Order, and you ſee it coſt the life of <hi>ſome;</hi> it hindred the bringing home the Ark unto <hi>all;</hi> They look't into the Arke who were the perſons that ſhould not, 1 <hi>Sam.</hi> 16.19. and it coſt the lives of 50000. of them, more periſhed in that then in the Warre.</p>
+            <p>
+               <hi>Zephan.</hi> 1. The Prophet comes in <hi>Ioſiah</hi> the <hi>Re<g ref="char:EOLhyphen"/>formers time,</hi> and ſaith, he will pluck downe utterly, and the reaſon of it was becauſe there were the <hi>Che<g ref="char:EOLhyphen"/>marims,</hi> men that went in black to the heeles, in gar<g ref="char:EOLhyphen"/>ments of more preciſeneſſe and holines than others, though their harts were not after Gods <hi>Statutes;</hi> there was ſomething left in Court, and Country, and they brought all to nothing: that is very hardly chan<g ref="char:EOLhyphen"/>ged afterwards, that paſſeth in reforming times; as the errours in the firſt concoction are not mended in the ſecond: the reaſon of the fall of the Houſe lies not ſo much in the ſtrength of the ſtorme, as becauſe the foundation was not layed well at firſt,<note place="margin">Archiep. C. in Stari-ch.</note> 
+               <hi>Mat.</hi> 7. You know who it was that ſaid, when he brought in ſo many Popiſh things, hee intended but onely to bring things to the firſt, and Primitive Reformati<g ref="char:EOLhyphen"/>on,
+<pb n="23" facs="tcp:41151:15"/>to King <hi>Edwards</hi> time, becauſe there was then but a little ſtep gone in many things from Popery; And if you would make a thorough Reformation, give me leave from the Scripture to propound ſome ſuch things as not being obſerved, may hinder it.</p>
+            <p>Firſt take heed of <hi>Policy;</hi>
+               <note place="margin">
+                  <hi>Gen.</hi> 34.22, 23.25, 26.</note> The Sichemites to get the Eſtates of the People would be circumciſed: but you know it coſt them their lives. <hi>Policy</hi> doth with Religion as <hi>Amnon</hi> did with <hi>Tamar,</hi> when it hath it's will of it, and ſerv'd it's turne, it thruſts it out of doores; <hi>Ieroboam</hi> to preſerve his Kingdome ſet up the Calves; leaſt the <hi>Romans</hi> ſhould come in and take the City of <hi>Jeruſalem,</hi> the Iewes would not re<g ref="char:EOLhyphen"/>ceive the Goſpell, but they loſt both.<note place="margin">Hieron.</note> 
+               <hi>Iuſchiſmatis remedium;</hi> to prevent ſchiſme, they would have one Biſhop over the Miniſters, and that brought in a <hi>Pope,</hi> for by the ſame reaſon there ought to bee one Miniſter over another, to keep them in Order, there ought to be one above al, to order al:<note n="*" place="margin">Cum clim pro univerſa Graecia in <hi>Ma<g ref="char:EOLhyphen"/>rathone</hi> quondam peri<g ref="char:EOLhyphen"/>cliti eſſent, &amp;c. <hi>Cirill.</hi> contra <hi>Iulian lib.</hi> 6.</note> To bring on the Heathen to Chriſtianity, they thought it beſt in for<g ref="char:EOLhyphen"/>mer times to have Feaſt dayes, and to give ſuch names unto the things of the Goſpell, as they gave unto their owne Worſhip, but it brought not the Heathen in, but Heatheniſme. It is the greateſt <hi>po<g ref="char:EOLhyphen"/>licy</hi> in the world to defend, and ſave a tottering State, and that is no way done ſo, as by thorough Reforma<g ref="char:EOLhyphen"/>tion. <hi>Policy</hi> may be conſidered two wayes.</p>
+            <p n="1">1. Either as an Orderer or ranger of things into their proper place and ſeaſon, and ſo <hi>Religion</hi> is ſub<g ref="char:EOLhyphen"/>ject unto <hi>policy,</hi> becauſe they have both one end, the publike defence: or elſe</p>
+            <p n="2">2. <hi>Policy</hi> may be conſidered as the <hi>Lord,</hi> and <hi>Re<g ref="char:EOLhyphen"/>ligion</hi> as ſubordinate, and ſo it muſt not be ſubject to it, for Religion is ſupreame, the end of all things. There is a <hi>naturall</hi> worſhip which depends on the nature of God, and that a man muſt doe though he dye preſently, as a man muſt beleive, and a man
+<pb n="24" facs="tcp:41151:16"/>muſt acknowledge God, though the point be at the breſt, the dagger be at the heart: but there is ſecond<g ref="char:EOLhyphen"/>ly a worſhip of God, which onely doth ariſe from the will of God, <hi>inſtituted Worſhip,</hi> as Divines terme it, where the things are not good in themſelves, but in order to Gods will, as there is nothing in the bread, nor in the Wine, but what is in ordinary bread, but as the Character of Gods inſtitution comes on it. In things of this nature the rule is, I will have mer<g ref="char:EOLhyphen"/>cy and not ſacrifice <hi>Exod.</hi> 8.26. <hi>Moſes</hi> profeſſeth he would not ſacrifice among the Aegyptians, be<g ref="char:EOLhyphen"/>cauſe they would ſtone him preſently, 1 <hi>Sam.</hi> 5.12. the Kingdome was eſtabliſhed in <hi>Davids</hi> hands; all things were at quiet, before he would bring in the Arke. <hi>c.</hi> 6. In tumultuous times it is dangerous to alter any thing in matters of Religion of this ſort, more then needs, like the giving of a purge to one in a Feaver; it may perhaps bring death: for it both puts a new Title on the quarrell, and divides among the Friends too, and acquaintance of the cauſe; not to change, is not ſo much <hi>policie</hi> as <hi>religion;</hi> and Religi<g ref="char:EOLhyphen"/>on will never thrive the worſe for it; the Goſpell tells us there is a leavening time, wherein the lea<g ref="char:EOLhyphen"/>ven is put into the meale before ſuch time as it is kneaded up: the ſum is, <hi>policy</hi> muſt not make any thing hinder our <hi>Confeſſion; policy</hi> may, and is a juſt ground, why men ſhould forbeare the <hi>profeſsion</hi> of ſome things that are good; but that is the firſt thing.</p>
+            <p n="2">2. Would you make a <hi>thorough Reformation,</hi> take heed to the <hi>Lawes;</hi> whence is it that there are ſo ma<g ref="char:EOLhyphen"/>ny <hi>Non-Reſidents,</hi> that doe not <hi>feed</hi> but <hi>ſtarve</hi> the Flock? we have a Law for it: whence is it that men are forced to prophane the Lords Supper, and to eat and drinke their owne damnation? But becauſe you have a Law, that men of ſixteene yeares of Age muſt come to the Sacrament: A Law like the Spani<g ref="char:EOLhyphen"/>ards Practice, who forced the Indians into the Ri<g ref="char:EOLhyphen"/>ver
+<pb n="25" facs="tcp:41151:16"/>to be baptiſed and then cut their throats; a leſſe evill then this drinking of damnation; whence came it that the ceremonies grew to be like clouds, ſo ma<g ref="char:EOLhyphen"/>ny were introduc't, that the <hi>glory</hi> could not bee ſeene; but becauſe there was a Law of retaining ſuch, as were among the Papiſts <hi>apt to ſtirre up the dull minde of man to the remembrance of his dutie, by ſome notable ſignification,</hi> whereby he might bee edi<g ref="char:EOLhyphen"/>fied, as you may finde it in the Booke of Common Prayer. Take heed unto the <hi>Lawes,</hi> (I had almoſt ſaid, if I might crave pardon for the word) take heed what <hi>Lawes</hi> you <hi>make</hi> in matters of Religion; for if the thing ſhould fall out to be evill (as what man is there that erres not) when once it is a Law, it will be followed: <hi>Hoſ.</hi> 5.11. they <hi>willingly</hi> followed the commandement of worſhipping the Calves; the counſels of <hi>Jeroboam</hi> and his perſwaſions prevai<g ref="char:EOLhyphen"/>led much,<note place="margin">
+                  <hi>Micah</hi> 6.16.</note> but the ſtatutes of <hi>Omri</hi> found no op<g ref="char:EOLhyphen"/>poſition. Suppoſe the thing bee good, a <hi>Law,</hi> will bee a <hi>Ne plus ultra,</hi> beyond which men will not goe, and ſo it may either hinder, or make a fu<g ref="char:EOLhyphen"/>ture reformation harder. Not to be contented to doe what is injoyned by men of wiſedome, that will bee accounted <hi>unquietneſſe</hi> of ſpirit at the beſt; and to goe any further then the Law, will bee eſteemed <hi>pride,</hi> if not <hi>diſobedience. Moſes</hi> gave the Law of Divorce, and you ſhall finde that men ſtucke ſo unto that, that Chriſts interpreta<g ref="char:EOLhyphen"/>tion of it would not paſſe: yet that you may not be miſtaken, conſider that the things of Religion are of ſeverall ſorts: Firſt ſome are ſuch as conſiſt <hi>in indiviſibili,</hi> which admit of no variation, ſuch as are knowne to all Saints in one degree or ano<g ref="char:EOLhyphen"/>ther, ſuch in which there is no poſsibility of alte<g ref="char:EOLhyphen"/>ration afterward; let mee adde unto this, ſuch as the common light of all Chriſtians reacheth un<g ref="char:EOLhyphen"/>to,
+<pb n="26" facs="tcp:41151:17"/>as the <hi>obſervation of the Sabbath,</hi> the <hi>Low,</hi> &amp;c. and divers other things; and let me adde unto that, ſuch things as doe <hi>immediately</hi> and <hi>properly</hi> con<g ref="char:EOLhyphen"/>cerne the Weale publike: theſe ought to be eſtabli<g ref="char:EOLhyphen"/>ſhed; there ſhould be ſuch Rules for theſe, as all men ſhould goe by. But there are ſome other things in religion, wherof a <hi>good</hi> and <hi>godly</hi> man may have no knowledge; the knowledge whereof is ra<g ref="char:EOLhyphen"/>ther a <hi>priviledge</hi> unto ſome, then a <hi>propriety</hi> unto all Saints: <hi>Rom.</hi> 14. the Text ſaith there expreſly, that theſe were to be received into the Church, who held for Jewiſh Ceremonies at that time lawfull. (I ſay, <hi>at that time</hi>) though they held them not ne<g ref="char:EOLhyphen"/>ceſſary for ſalvation: In things of this nature God is tender, and man ſhould be ſo too, and yet the weale publike not be hindered.</p>
+            <p>Thirdly, in Reformation doe not make <hi>reaſon</hi> your <hi>rule,</hi> nor <hi>line</hi> you goe by; it is the <hi>line</hi> of all the Papiſts: God (ſay they) hath not leſſe care of his Church in the New, then he had in the Old Teſta<g ref="char:EOLhyphen"/>ment; <hi>there</hi> he gave them one high Prieſt, who ſhould infallibly determine all controverſies; and therefore <hi>now</hi> there ſhould be one Biſhop, who ſhould have the ſame light and power. You ſhall never read in Scripture where any man walkt after the imaginations of his owne heart, but by and by you ſhall read he did doe wickedly: In the point of worſhip of God the Text ſaith clearly, <hi>Exod.</hi> 20.4. thou ſhalt not make <hi>unto thy ſelfe,</hi> that is, by thy owne wit, any thing which may as an <hi>image</hi> be like to what God hath appointed, as an image is to the perſon; any thing which may keep God in mind, or keep or ſtirre up affection to him, as a pi<g ref="char:EOLhyphen"/>cture doth to him it repreſents; nay it reacheth fur<g ref="char:EOLhyphen"/>ther then that; the greateſt reaſon in the world of any obedience is Gods nature: if he be God that
+<pb n="27" facs="tcp:41151:17"/>gives being to all things, all things muſt depend on him by faith; if all things come from him, all things muſt returne to him as the utmoſt end; hee ought to be ſerved with all a man hath, becauſe all a man hath is from him. This the nature of God teacheth a man; but the <hi>nature</hi> of God is not the reaſon, but his <hi>well</hi> is the reaſon of his <hi>outward</hi> worſhip: it doth not follow, if God be God hee muſt be ſerved with Sacraments, or <hi>ſuch</hi> Miniſters, but becauſe he hath ſet it downe and appointed it: the ſecond Commandement doth forbid not onely reaſon, but all divine reaſon, that is not ſanctified by inſtitution in the worſhip of God: I ſay not on<g ref="char:EOLhyphen"/>ly all <hi>humane,</hi> but all <hi>divine:</hi> Reaſon may be conſide<g ref="char:EOLhyphen"/>red two wayes; firſt, as it is a diſpoſer and placer of all things in their order, and ſo it belongs to all knowledge and ſcience: ſecondly, as it imports a Principle of doing any thing, and ſo Gods out<g ref="char:EOLhyphen"/>ward worſhip, hath no ground in any reaſon, but Gods will.</p>
+            <p>Fourthly, if you would make a thorow Refor<g ref="char:EOLhyphen"/>mation, looke unto the <hi>Miniſtery;</hi> if an Angel fall from heaven, he will ſweepe many together with him: your owne experience hath taught you, that no place hath yeelded ſuch ſtubbornneſſe in ſuper<g ref="char:EOLhyphen"/>ſtition, ſo much diſobedience and rebellion as thoſe, where the Miniſter hath either been blinde or profane: the onely Rule of Reformation is the word of God: What (I beſeech you) will you dee with that in the worſhip of God, which will not bring your ſoules to heaven, but periſheth in the uſe, as in <hi>Col.</hi> 2.22. And that will never bring you to heaven that never came from heaven; for there is no effect of a greater power, or of another nature then the cauſe; If ſo be that Chriſt hath only told you thus in the generall, You ſhall have <hi>government,</hi>
+               <pb n="28" facs="tcp:41151:18"/>but not told you what <hi>government,</hi> he hath not left himſelfe the Crowne on his head, but put it upon yours: Be you Judges, whether is he greater that ſaith, <hi>I will have this to be done,</hi> or he that hath power to ſay, <hi>I will have it done this way or no way, you ſhall have it done as I pleaſe.</hi>
+            </p>
+            <p>Laſtly, would you have Reformation? begin then to reforme your ſelves; God would not have <hi>David</hi> build his Temple, becauſe he had had his hands in blood; that is, he had ſhed the bloud of <hi>Vriah:</hi> For otherwiſe in the building of the ſecond Temple they might fight and build,<note place="margin">
+                  <hi>Neh.</hi> 4.13.17</note> uſe the Trowell and the Sword together: there was none might work at the Tabernacle, but he that had a <hi>Spirit, Exod.</hi> 35.30. what have <hi>Tobia's</hi> and <hi>Sanballat's</hi> to doe with ſuch kind of things as theſe? Certainly that will be ac<g ref="char:EOLhyphen"/>counted but <hi>Policy,</hi> which is done in <hi>Religion</hi> by men who are not <hi>holy</hi> in their converſation: you have motive enough to this within my Text, your <hi>lives</hi> lye on it, for without this you ſhall have no <hi>defence;</hi> your way unto <hi>glory</hi> lyes in it for without it, it will not be <hi>glory,</hi> that is, it will not make you glorious in the eyes of God. I ſhut up all with a word of exhortation.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Vſe </seg>5</label> Laſtly lift up prayers unto God, that hee would make us a <hi>glory,</hi> that ſo he may be our <hi>defence:</hi> there is that in the Text, that would make a dumbe man ſpeake, and that would worke a heart in him who hath no minde to pray; the very mention of it is <hi>alluring, glory,</hi> and a <hi>defence;</hi> Heaven and ſafety, God and all in the world: the words <hi>upon the glory there ſhall be a defence,</hi> are not ſo much declaratory, as promiſory; they have bound God ſo faſt he can<g ref="char:EOLhyphen"/>not goe backe: there is nothing doth prevaile with God ſo much as Prayer that is for Reformation: in the eighteenth of <hi>Luke, I will goe and give him his
+<pb n="29" facs="tcp:41151:18"/>deſire, leſt hee trouble mee,</hi> the Word that is uſed there by the Evangeliſt is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,<note place="margin">Budaeus in Pandect.</note> and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> ſign fieth a <hi>blacke eye,</hi> or a <hi>marke in the face;</hi> looke as this reports that a man hath over<g ref="char:EOLhyphen"/>come one, with whom hee either fought or wreſtled, ſo it will bring ſuch a blot on God, as hee ſhall never wipe out, if your poore pray<g ref="char:EOLhyphen"/>ers ſhould bee turned into your owne bo<g ref="char:EOLhyphen"/>ſomes; that Prayer for Reformation, ob<g ref="char:EOLhyphen"/>taines as ſoone as ever it is made: and you have a Scripture for that in the booke of <hi>Da<g ref="char:EOLhyphen"/>niel,</hi> as ſoone as ever, in <hi>Daniel</hi> 9.23. <hi>At the beginning of thy ſupplication, the commandement came forth, and I am come to ſhew thee, that thou art greatly beloved:</hi> Hee that will not pray for <hi>glo<g ref="char:EOLhyphen"/>rie</hi> hath no <hi>grace;</hi> Hee that will not pray for a <hi>defence,</hi> hee hath no <hi>nature</hi> alive in him; he that when hee is promiſed hee ſhall have, will not aske, deſpiſeth; nay hee doth worſe then that, hee incenſeth God unto the greateſt wrath againſt him. Take up therefore the words God hath taught you, and ſpeake unto him, <hi>Ioel</hi> 2.17. <hi>Lord ſpare thy people, and give them not to bee a reproach, why ſhould thy enemies ſay, Where is their God?</hi> Where is thy bowels and thy truth, thy goodneſſe and thy power, are they not for everlaſting?</p>
+            <p>To conclude all, ſay unto God in Prayer, and powre it forth with teares, what <hi>Ruth</hi> did unto her Mother-in-Law, when ſhee bid her goe away; <hi>Where thou goeſt I will goe, and where thou liveſt I will live, where thou dyeſt I will bee buried:</hi> So ſay to God; Lord, if thou wilt take away Religion, and the Goſpel, then firſt take us away; If thou wilt have thy name blot<g ref="char:EOLhyphen"/>ted
+<pb n="30" facs="tcp:41151:19" rendition="simple:additions"/>out from under heaven, firſt begin with ours; Life will not bee worth the having. when wee may not live with thee in <hi>glory.</hi> I will aſſure you this, and it is in the words of my Text, if ſo bee you will bee ſo ſet as you will have <hi>glory,</hi> you ſhall have <hi>defence,</hi> you ſhall bee Gods <hi>glory,</hi> and God will be your <hi>ſhelter,</hi> for <hi>upon all the glory there ſhall be a defence.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
